@@ -36,7 +36,8 @@
     "react-query": "^3.38.1"
   },
   "devDependencies": {
-    "@babel/core": "^7.12.9"
+    "@babel/core": "^7.12.9",
+    "jest": "^28.1.0"
   },
   "private": true
 }
